@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "rubyfmt:formatBuffer"
   },
-  "repository": "https://github.com/toreriklinnerud/rubyfmt",
+  "repository": "https://github.com/toreriklinnerud/atom-rubyfmt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
