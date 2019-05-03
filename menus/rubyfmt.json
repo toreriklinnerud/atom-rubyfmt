@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rubyfmt",
+        "command": "rubyfmt:formatBuffer"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rubyfmt",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rubyfmt:formatBuffer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
