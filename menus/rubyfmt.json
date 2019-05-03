@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle rubyfmt",
+        "label": "Format Ruby",
         "command": "rubyfmt:formatBuffer"
       }
     ]
@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "rubyfmt",
+          "label": "Rubyfmt",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Format Ruby",
               "command": "rubyfmt:formatBuffer"
             }
           ]
