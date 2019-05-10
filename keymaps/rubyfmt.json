@@ -1,8 +1,8 @@
 {
-    ".platform-darwin atom-text-editor[data-grammar='source ruby']": {
+    ".platform-darwin atom-text-editor[data-grammar^='source ruby']": {
       "cmd-;": "rubyfmt:formatBuffer"
   },
-  ".platform-win32 atom-text-editor[data-grammar='source ruby'], .platform-linux atom-text-editor[data-grammar='source ruby']": {
+  ".platform-win32 atom-text-editor[data-grammar^='source ruby'], .platform-linux atom-text-editor[data-grammar^='source ruby']": {
     "alt-;": "rubyfmt:formatBuffer"
   }
 }
