@@ -1,4 +1,4 @@
-# sublime-rubyfmt
+# atom-rubyfmt
 [Atom](https://atom.io/) plugin to autoformat [Ruby](https://www.ruby-lang.org/en/) code with [Rubyfmt](https://github.com/samphippen/rubyfmt)
 
 ![ezgif-1-efe14eccc5e4](https://user-images.githubusercontent.com/13226/62165767-2e94ae80-b2ed-11e9-9ccc-c401b49d92e1.gif)
