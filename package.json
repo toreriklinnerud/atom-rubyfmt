@@ -1,22 +1,22 @@
 {
   "name": "rubyfmt",
   "main": "./lib/rubyfmt",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Atom package to autoformat Ruby code with Rubyfmt",
   "keywords": [
     "formatter",
-
-
     "format",
     "ruby",
     "rubyfmt"
   ],
-  "activationHooks": ["language-ruby:grammar-used", "language-ruby-on-rails:grammar-used"],
+  "activationHooks": [
+    "language-ruby:grammar-used",
+    "language-ruby-on-rails:grammar-used"
+  ],
   "repository": "https://github.com/toreriklinnerud/atom-rubyfmt",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
