@@ -36,6 +36,9 @@ If your file contains syntax errors it won't be formatted.
 
 Format on save is disabled by default but can be enabled from the Package Settings.
 
+<img width="400" alt="Screen Shot 2019-07-30 at 16 55 08" src="https://user-images.githubusercontent.com/13226/62165887-6d2a6900-b2ed-11e9-8cb4-5b08c29cb256.png">
+
+
 ## Syntax errors
 
 If the Ruby code contains a syntax error it cannot be formatted. The syntax error will be displayed in a notification window. 
