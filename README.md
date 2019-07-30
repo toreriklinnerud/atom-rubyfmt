@@ -30,4 +30,4 @@ Format on save is disabled by default but can be enabled from the Package Settin
 
 If the Ruby code contains a syntax error it cannot be formatted. The syntax error will be displayed in a notification window. 
 
-![syntax-error-screenshot]("https://user-images.githubusercontent.com/13226/62164251-153e3300-b2ea-11e9-972d-c76e9de21fb2.png")
+![syntax-error-screenshot](https://user-images.githubusercontent.com/13226/62164251-153e3300-b2ea-11e9-972d-c76e9de21fb2.png)
