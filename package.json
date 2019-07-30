@@ -1,7 +1,7 @@
 {
   "name": "rubyfmt",
   "main": "./lib/rubyfmt",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Atom package to autoformat Ruby code with Rubyfmt",
   "keywords": [
     "formatter",
