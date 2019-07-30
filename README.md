@@ -5,13 +5,7 @@
 
 
 ## Dependencies
-`ruby` and `rubyfmt` must already be installed and in your path:
-
-```shell
-$ which {ruby,rubyfmt}
-/Users/tel/.rbenv/shims/ruby
-/Users/tel/bin/rubyfmt
-```
+`ruby` is assumed to be in path and `rubyfmt.rb` is assumed to be in `~/bin/rubyfmt.rb` but this can be overriden in the package settings. 
 
 
 ## Plugin installation
