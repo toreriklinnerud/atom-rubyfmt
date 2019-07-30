@@ -33,6 +33,7 @@ If your file contains syntax errors it won't be formatted.
 
 Format on save is disabled by default but can be enabled from the Package Settings.
 
-## Troubleshooting
+## Syntax errors
 
-If execution of Ruby/Rubyfmt fails, debug information will be printed to the Developer Console: View -> Developer -> Toggle Developer Tools
+If the Ruby code contains a syntax error it cannot be formatted. The syntax error will be displayed in a notification window. 
+
