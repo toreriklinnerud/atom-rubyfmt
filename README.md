@@ -9,7 +9,7 @@
 
 ## Plugin installation
 
-Through [Atom packages](https://atom.io/packages), search for rubyfmt.
+Through the [Atom package](https://atom.io/packages/rubyfmt).
 
 ## Formatting code
 
